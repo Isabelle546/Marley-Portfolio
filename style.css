@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding-top:800px;
+    text-align:center;
+}
+#img{
+    border-radius: 50%;
+    width: 300px;
+}
+#welcome{
+    position:absolute;
+    bottom: 0;
+    background: linear-gradient( #f3de22 0%, #c94b97 100%) ;
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:cornflowerblue;
+}
+p{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p{
+    font-size: 20px;
+}
+#s{
+    font-size: 27px;
+}
+#m{
+    font-size: 65px;
+}
+#w{
+    font-size:45px;
+}
+#c{
+    font-size: 35px;
+}
